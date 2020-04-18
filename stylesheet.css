@@ -1,0 +1,20 @@
+/* #example {
+    margin: auto;
+    background-color: coral;
+    color: darkred;
+    border-radius: 30%;
+    padding: 1%;
+} */
+
+:root {
+    font-family: Helvetica;
+    font-size: 14px;
+}
+
+* {
+    font: inherit;
+}
+
+#meme-canvas {
+    width: 500px;
+}
